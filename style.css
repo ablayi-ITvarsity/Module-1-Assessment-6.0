@@ -1,0 +1,61 @@
+.gallery, h4{
+    color: blue;
+}
+
+.gallery, img{
+    width: 100%;
+    padding: center;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+.gallery, h2{
+
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-style:normal;
+}
+
+.gallery, h3{
+    font-family: impact, fantasy;
+    font-size: 20px;
+    font-style:normal;
+    color: cornflowerblue;
+}
+
+.galleery, p{
+    font-style:normal;
+}
+
+#menu a{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
+
+.content, img{
+    width: 60%;
+    height:60%;
+}
+
+.content, h3{
+    font-family: impact, fantasy;
+    font-size: 20px;
+    font-style:normal;
+    color: rgb(76, 106, 124);
+}
